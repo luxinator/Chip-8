@@ -1,2 +1,2 @@
-# GameOfLide
-Game of Life Implementation in SDL2 and C++
+# Not working Chip-8 Emulator
+
